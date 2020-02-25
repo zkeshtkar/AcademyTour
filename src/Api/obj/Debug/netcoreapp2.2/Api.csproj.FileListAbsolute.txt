@@ -1,0 +1,38 @@
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Api.deps.json
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Api.runtimeconfig.json
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Api.runtimeconfig.dev.json
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Api.dll
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Api.pdb
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.csprojAssemblyReference.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.csproj.CoreCompileInputs.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cs
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfoInputs.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfo.cs
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.RazorTargetAssemblyInfo.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.dll
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.pdb
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Domain.dll
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Infrastructure.dll
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Infrastructure.pdb
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/bin/Debug/netcoreapp2.2/Domain.pdb
+/home/therealak12/Desktop/academy/Academy Tour/src/Api/obj/Debug/netcoreapp2.2/Api.csproj.CopyComplete
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.csprojAssemblyReference.cache
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.csproj.CoreCompileInputs.cache
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cache
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cs
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfoInputs.cache
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfo.cs
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.RazorTargetAssemblyInfo.cache
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Api.csproj.CopyComplete
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Api.deps.json
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Api.runtimeconfig.json
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Api.runtimeconfig.dev.json
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Api.dll
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Api.pdb
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Domain.dll
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Infrastructure.dll
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Infrastructure.pdb
+/home/zahra/Videos/AcademyTour/src/Api/bin/Debug/netcoreapp2.2/Tour.Domain.pdb
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Tour.Api.dll
+/home/zahra/Videos/AcademyTour/src/Api/obj/Debug/netcoreapp2.2/Tour.Api.pdb

@@ -1,0 +1,18 @@
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/bin/Debug/netstandard2.0/Domain.dll
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/obj/Debug/netstandard2.0/Domain.dll
+/home/therealak12/Desktop/academy/Academy Tour/src/Domain/obj/Debug/netstandard2.0/Domain.pdb
+/home/zahra/Videos/AcademyTour/src/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/home/zahra/Videos/AcademyTour/src/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/home/zahra/Videos/AcademyTour/src/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/home/zahra/Videos/AcademyTour/src/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/home/zahra/Videos/AcademyTour/src/Domain/bin/Debug/netstandard2.0/Tour.Domain.deps.json
+/home/zahra/Videos/AcademyTour/src/Domain/bin/Debug/netstandard2.0/Tour.Domain.dll
+/home/zahra/Videos/AcademyTour/src/Domain/bin/Debug/netstandard2.0/Tour.Domain.pdb
+/home/zahra/Videos/AcademyTour/src/Domain/obj/Debug/netstandard2.0/Tour.Domain.dll
+/home/zahra/Videos/AcademyTour/src/Domain/obj/Debug/netstandard2.0/Tour.Domain.pdb
